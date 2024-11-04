@@ -43,7 +43,7 @@ Este proyecto es una aplicación desarrollada en Java para gestionar distintos t
 
 - **Pruebas Unitarias**: Se han implementado pruebas básicas para asegurar el funcionamiento correcto de las clases y sus métodos. Estas pruebas ayudan a verificar que los métodos `mostrarDetalles()`, `agregarActor()`, `agregarTemporada()`, entre otros, funcionen como se espera.
 
-- **Optimización de Código**: El código fue revisado y optimizado para mejorar su eficiencia y legibilidad. Por ejemplo, se implementó el método `toString()` en la clase `Temporada` para que la salida en consola sea más clara y fácil de entender.
+- **Optimización de Código**: El código fue revisado y optimizado para mejorar su eficiencia y legibilidad. 
 
 - **Documentación del Código**: Se añadieron comentarios en el código fuente, explicando el propósito de cada clase, atributo y método. Esto facilita la comprensión y el mantenimiento del proyecto para futuros desarrolladores.
 
