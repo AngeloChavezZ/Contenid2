@@ -48,5 +48,5 @@ Este proyecto es una aplicación desarrollada en Java para gestionar distintos t
 - **Documentación del Código**: Se añadieron comentarios en el código fuente, explicando el propósito de cada clase, atributo y método. Esto facilita la comprensión y el mantenimiento del proyecto para futuros desarrolladores.
 
 - **Manejo de Excepciones**: Se añadieron bloques de manejo de excepciones en la clase `TestSistema` para capturar y gestionar posibles errores en tiempo de ejecución.
-
+https://postimg.cc/D4dwK6sS
 
