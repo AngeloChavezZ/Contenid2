@@ -48,5 +48,14 @@ Este proyecto es una aplicación desarrollada en Java para gestionar distintos t
 - **Documentación del Código**: Se añadieron comentarios en el código fuente, explicando el propósito de cada clase, atributo y método. Esto facilita la comprensión y el mantenimiento del proyecto para futuros desarrolladores.
 
 - **Manejo de Excepciones**: Se añadieron bloques de manejo de excepciones en la clase `TestSistema` para capturar y gestionar posibles errores en tiempo de ejecución.
-<a href='https://postimg.cc/30D2jPPP' target='_blank'><img src='https://i.postimg.cc/J0pK88K4/Captura-de-pantalla-2024-11-03-210041.png' border='0' alt='Captura-de-pantalla-2024-11-03-210041'/></a>
 
+-**Creacion de github**
+  <a href='https://postimg.cc/D4dwK6sS' target='_blank'><img src='https://i.postimg.cc/0jhMDHy0/Captura-de-pantalla-2024-11-03-210846.png' border='0' alt='Captura-de-pantalla-2024-11-03-210846'/></a>
+
+-**Migracion del codigo guenerado para hacer la copia y sus respectivas modificaciones**
+<a href='https://postimg.cc/bd8GmS1Z' target='_blank'><img src='https://i.postimg.cc/G3Tkhk2x/Captura-de-pantalla-2024-11-03-211651.png' border='0' alt='Captura-de-pantalla-2024-11-03-211651'/></a>
+
+-**Creacion de las clases Autor, Temporada e Investigador**
+<a href='https://postimg.cc/tZz4KDFY' target='_blank'><img src='https://i.postimg.cc/3Rs0DcRC/Captura-de-pantalla-2024-11-03-211958.png' border='0' alt='Captura-de-pantalla-2024-11-03-211958'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/J4cHGKWZ/Captura-de-pantalla-2024-11-03-212034.png' border='0' alt='Captura-de-pantalla-2024-11-03-212034'/></a>
+<a href='https://postimg.cc/1fd318Vc' target='_blank'><img src='https://i.postimg.cc/9QmRTTWS/Captura-de-pantalla-2024-11-03-212121.png' border='0' alt='Captura-de-pantalla-2024-11-03-212121'/></a>
